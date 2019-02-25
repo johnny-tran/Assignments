@@ -5,6 +5,11 @@ Assignments for the current iteration of COGS 108 - Wi19.
 Assigments are typically released by Monday mornings and due on Sunday nights, either one or two weeks later, as specified below:
 
 
+#### A4: Data Analysis
+
+- Released: Saturday, February 22nd (W7)
+- Due: Sunday, March 3rd (W9)
+
 #### Project Proposal
 
 - Due: Monday, February 18th (W7)
@@ -12,13 +17,13 @@ Assigments are typically released by Monday mornings and due on Sunday nights, e
 
 #### A3: Data Privacy
 
-- Released: Saturday, Feb 9th (W5)
+- Released: Saturday, February 9th (W5)
 - Due: Monday, February 18th (W7)
 
 
 #### A2: Data Exploration
 
-- Released: Saturday, Jan 26th (W2)
+- Released: Saturday, January 26th (W2)
 - Due: Sunday, February 3rd (W4)
 
 #### A1: Setting-Up

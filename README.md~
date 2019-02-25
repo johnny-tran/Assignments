@@ -4,6 +4,12 @@ Assignments for the current iteration of COGS 108 - Wi19.
 
 Assigments are typically released by Monday mornings and due on Sunday nights, either one or two weeks later, as specified below:
 
+
+#### Project Proposal
+
+- Due: Monday, February 18th (W7)
+
+
 #### A3: Data Privacy
 
 - Released: Saturday, Feb 9th (W5)
